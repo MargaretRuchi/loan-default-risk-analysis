@@ -6,7 +6,6 @@ Financial institutions rely on data-driven decision-making to evaluate loan appl
 
 Using Python and Google Colab, applicant data was cleaned, explored, and visualized to uncover relationships between credit history, income levels, education, loan amounts, and loan approval outcomes.
 
----
 
 ## Business Problem
 
@@ -19,8 +18,6 @@ This project aims to answer the following business questions:
 * Does income level affect loan approval?
 * Are there demographic factors associated with approval rates?
 * What insights can help improve lending strategies?
-
----
 
 ## Dataset Information
 
@@ -41,7 +38,6 @@ Kaggle
 | Missing Values     | Cleaned During Preprocessing |
 | Target Variable    | Loan_Status                  |
 
----
 
 ## Tools and Technologies
 
@@ -51,8 +47,6 @@ Kaggle
 * NumPy
 * Matplotlib
 * Seaborn
-
----
 
 ## Project Workflow
 
@@ -92,8 +86,6 @@ Created visualizations to communicate lending trends and risk indicators.
 
 Generated recommendations to support lending decisions and risk management.
 
----
-
 ## Key Performance Indicators (KPIs)
 
 The project focuses on the following KPIs:
@@ -105,8 +97,6 @@ The project focuses on the following KPIs:
 * Credit History Impact
 * Income Category Approval Rates
 * Education-Based Approval Rates
-
----
 
 ## Visualizations
 
@@ -148,8 +138,6 @@ Most applicants fall within lower-to-middle income ranges, while a small number 
 
 The lending portfolio is concentrated around small and medium-sized loans, reducing exposure to extreme lending risk.
 
----
-
 ## Business Recommendations
 
 ### 1. Prioritize Credit History Assessment
@@ -172,8 +160,6 @@ Create lending opportunities for creditworthy low- and medium-income applicants.
 
 Apply additional review procedures for large loan requests to minimize portfolio risk.
 
----
-
 ## Skills Demonstrated
 
 * Data Cleaning
@@ -185,8 +171,6 @@ Apply additional review procedures for large loan requests to minimize portfolio
 * Business Intelligence
 * Insight Generation
 * Reporting and Communication
-
----
 
 ## Project Structure
 
@@ -216,19 +200,13 @@ loan-default-risk-analysis/
 
 └── README.md
 
----
-
 ## Results
 
 The analysis revealed that credit history is the most significant factor influencing loan approvals. Income and education contribute to lending decisions but are less predictive than credit-related factors. The findings provide actionable insights for improving loan evaluation processes and reducing financial risk.
 
----
-
 ## Conclusion
 
 This project demonstrates how financial analytics can be used to evaluate borrower characteristics, identify lending risks, and support data-driven loan approval decisions. The insights generated can help financial institutions improve risk management, optimize lending strategies, and enhance portfolio performance.
-
----
 
 ## Author
 
